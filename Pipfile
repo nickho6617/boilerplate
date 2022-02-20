@@ -11,6 +11,8 @@ django-crispy-forms = "*"
 crispy-bootstrap5 = "*"
 pytest = "*"
 pytest-django = "*"
+pillow = "*"
+django-debug-toolbar = "*"
 
 [dev-packages]
 
